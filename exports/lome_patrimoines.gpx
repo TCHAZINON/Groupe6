@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Groupe6">
+  <wpt lat="6.1725" lon="1.2314">
+    <name>Centre de lome</name>
+    <sym>Star</sym>
+    <type>CentreVille</type>
+  </wpt>
+  <wpt lat="6.1725" lon="1.2314">
+    <name>monument de l' independance</name>
+    <sym>Historic</sym>
+    <type>Monument</type>
+  </wpt>
+  <wpt lat="6.1725" lon="1.2314">
+    <name>Monument de l'Indépendance</name>
+    <sym>Historic</sym>
+    <type>Monument</type>
+  </wpt>
+</gpx>
